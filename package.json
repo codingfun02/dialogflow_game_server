@@ -1,8 +1,7 @@
 {
-  "name": "dialogflow_game_server",
+  "name": "dialogflow-game-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "dialogflow-game-server",
   "scripts": {
     "start": "nodemon --exec babel-node src/init.js"
   },
